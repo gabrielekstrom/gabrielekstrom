@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I'm currently working on an Arduino ESP8266 weather station.
-- 🌱 I’m currently learning **GPG** and **C++**.
+- 🔭 I'm currently working on [osmium-bot](https://www.github.com/gabrielekstrom/osmium-bot) a custom Discord bot for one of my Discord communities.
+- 🌱 I'm currently learning C++.
 
 <!--
 **gabrielekstrom/gabrielekstrom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
